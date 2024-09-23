@@ -1,0 +1,6 @@
+ipynb
+matplotlib
+numpy
+pandas
+scikit-learn
+umap
